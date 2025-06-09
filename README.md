@@ -1,25 +1,19 @@
-# Yo. It's NuclearCoreSystem. 
-## Behold my memehole of a readme, complete with horrible formatting
-### god what am i doing with my life
-#### i should probs stop
-##### oh wait no i'm not
-###### the text is getting smaller
+# NuketheCore (or just Core)
 
-- CyberSec Expert "in training" (i'm about to head to college)
-- someone who'll try and help others make commits
-- huge tech nerd (who loves old tech)
-- trying to learn c++ and a ton of other languages
-- may or may not be an aspiring game dev
-- <sup><sub>furry</sub></sup>
-- ignore that one above, or don't, nobody really gives a damn
-- 17yo
-- this readme is open to suggestions, so just say what meme you wanna add and i'll do it
-- this took way too long
+Welcome to my memehole of a portfolio/README, I hope you enjoy your stay:
 
+# about
+- 17 y/o
+- almost a college freshman
+- ##### furry
+- it's up to you to give a damn about the above or not
+- learning as many programming languages as physically possible
+- aspiring pentester
+- wants to suffer and co-make a game
 
-# OKAY BYEEEEEEEEEEEE
-
-![unnamed](https://github.com/user-attachments/assets/3d88111b-9a89-45d4-aaed-d604d833ade5)
-![unnamed (2)](https://github.com/user-attachments/assets/6dcca360-8fe5-46c2-9f64-b993d99f9439)
-![unnamed (1)](https://github.com/user-attachments/assets/9d5fa443-0904-4e40-9a56-0adb42aa85a6)
-![skull-spinning-skull](https://github.com/user-attachments/assets/0dc524c2-d489-4723-bbe8-012cb8219f31)
+# "portfolio"
+- Installed "Minecraft" on a TI-84 Plus CE
+- cyber.org VM Labs: TCPDump, Metadata, Backdoors (twice), Ransomware,  Steganography, Rainbow Table, Offline Brute Force, Credential Harvesting, Phishing *breathe* (next line)
+- Wireshark, Linux 101, Intro to Keyloggers, Denial of Service (DOS) Attack, Trojan.
+- Installed even more games on a TI-84 Plus CE
+- More will come soon.
