@@ -5,7 +5,7 @@ Welcome to my memehole of a portfolio/README, I hope you enjoy your stay:
 # about
 - 17 y/o
 - almost a college freshman
-- ###### furry
+- furry
 - it's up to you to give a damn about the above or not
 - learning as many programming languages as physically possible
 - aspiring pentester
