@@ -1,4 +1,4 @@
-# NuketheCore (or just Core)
+# RandomizedAlias (or just Alias)
 
 Welcome to my memehole of a portfolio/README, I hope you enjoy your stay:
 
